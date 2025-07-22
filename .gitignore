@@ -1,0 +1,19 @@
+# CMake Files
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
+CMakeUserPresets.json
+
+# Build Files
+build/
+Makefile
+r-type_client
+r-type_server
+
+# MacOSX Files
+.DS_Store
+
+# Visual Studio Code Files
+.vscode/
+
+sfml-app

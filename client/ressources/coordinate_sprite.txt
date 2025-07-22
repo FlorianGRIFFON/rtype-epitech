@@ -1,0 +1,27 @@
+floor.png:
+    - space back : 0,0; 375,0; 375, 222; 0,222
+    - mechanical back: 376, 0; 662, 0; 662, 222; 376, 222
+    - map: 0, 264; 2546, 264; 2546, 470; 0, 470
+
+r-typesheet42.gif (player):
+    - x: 17 pixel per player
+    - y: 33 per player
+
+r-typesheet1.gif:
+    - player projectile:
+        249, 90 
+        264, 90
+        264, 93
+        249, 93
+
+r-typesheet8.gif (mosquito):
+    - x: 33
+    - hotizontal: 33
+
+r-typesheet43.gif (plane projectile):
+    - 136, 6; 142, 6; 142, 11; 136, 11
+
+spritebgfinal169.png (space background):
+    - x: 359
+    - y: 640
+
